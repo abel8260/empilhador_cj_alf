@@ -6,4 +6,9 @@ A rpa aplication jupyter notebook based
 
 ## Se atentem a seguir as orientações dos comentários do código do empilhadorcjalf
 
+### Playlist de teste:
 
+https://www.youtube.com/playlist?list=PLArUdylGSfJW2D-R1BwMhCNdYBHre96cD
+
+### Recomendações advindas dos teste:
+- adapte com o comando pyautogui.position()  as configurações de tela do seu pc
