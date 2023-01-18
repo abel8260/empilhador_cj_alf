@@ -12,3 +12,8 @@ https://www.youtube.com/playlist?list=PLArUdylGSfJW2D-R1BwMhCNdYBHre96cD
 
 ### Recomendações advindas dos teste:
 - adapte com o comando pyautogui.position()  as configurações de tela do seu pc
+
+### Dependências:
+-  Wamp server;
+-  phpmyadmin;
+-  anaconda 3(with jupytere notebook)
